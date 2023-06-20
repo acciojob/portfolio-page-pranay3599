@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+body{
+	background-color:black;
+	color:white;
+	text-align:center;
+	display:flex;
+}
+.profile{
+	width:100px;
+	height:100px;
+	
+}
